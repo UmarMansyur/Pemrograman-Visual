@@ -1,0 +1,17 @@
+C:\Users\umaro\source\repos\belajar\belajar\bin\Debug\net6.0-windows\belajar.exe
+C:\Users\umaro\source\repos\belajar\belajar\bin\Debug\net6.0-windows\belajar.deps.json
+C:\Users\umaro\source\repos\belajar\belajar\bin\Debug\net6.0-windows\belajar.runtimeconfig.json
+C:\Users\umaro\source\repos\belajar\belajar\bin\Debug\net6.0-windows\belajar.dll
+C:\Users\umaro\source\repos\belajar\belajar\bin\Debug\net6.0-windows\belajar.pdb
+C:\Users\umaro\source\repos\belajar\belajar\obj\Debug\net6.0-windows\belajar.csproj.AssemblyReference.cache
+C:\Users\umaro\source\repos\belajar\belajar\obj\Debug\net6.0-windows\belajar.Form1.resources
+C:\Users\umaro\source\repos\belajar\belajar\obj\Debug\net6.0-windows\belajar.csproj.GenerateResource.cache
+C:\Users\umaro\source\repos\belajar\belajar\obj\Debug\net6.0-windows\belajar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umaro\source\repos\belajar\belajar\obj\Debug\net6.0-windows\belajar.AssemblyInfoInputs.cache
+C:\Users\umaro\source\repos\belajar\belajar\obj\Debug\net6.0-windows\belajar.AssemblyInfo.cs
+C:\Users\umaro\source\repos\belajar\belajar\obj\Debug\net6.0-windows\belajar.csproj.CoreCompileInputs.cache
+C:\Users\umaro\source\repos\belajar\belajar\obj\Debug\net6.0-windows\belajar.dll
+C:\Users\umaro\source\repos\belajar\belajar\obj\Debug\net6.0-windows\refint\belajar.dll
+C:\Users\umaro\source\repos\belajar\belajar\obj\Debug\net6.0-windows\belajar.pdb
+C:\Users\umaro\source\repos\belajar\belajar\obj\Debug\net6.0-windows\belajar.genruntimeconfig.cache
+C:\Users\umaro\source\repos\belajar\belajar\obj\Debug\net6.0-windows\ref\belajar.dll
